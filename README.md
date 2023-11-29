@@ -18,7 +18,7 @@ He dedicado tiempo y esfuerzo a la construcción de proyectos personales para ap
 - **CSS/HTML:** Destreza en el diseño y maquetación de páginas web, garantizando una experiencia visual agradable y accesible.
 - **Tailwind CSS y SASS:** Utilizo estas herramientas para optimizar y organizar eficientemente mi código CSS, facilitando el mantenimiento y la escalabilidad de mis proyectos.
 - **Next.js:** Familiaridad con el framework Next.js para la creación de aplicaciones web rápidas y eficientes.
-- 
+  
 ## Estadisticas de Github
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarasegura&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
