@@ -5,7 +5,7 @@
   <a href="https://platzi.com/p/sarasegura2002/"><img src="https://img.shields.io/badge/Platzi-98CA3F.svg?&style=for-the-badge&logo=platzi&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-# ¡Bienvenido a mi perfil de GitHub, pasa!  <img src="https://github.com/sarasegura/sarasegura/assets/137323950/644d2606-0a86-4824-8720-6e76a9000e35" width="100" height="100">
+# ¡Bienvenido a mi perfil de GitHub, pasa!  <img src="https://github.com/sarasegura/sarasegura/assets/137323950/644d2606-0a86-4824-8720-6e76a9000e35" width="50" height="50">
 
 ¡Hola! Soy Sara, un desarrolladora Front-end con habilidades en diversas tecnologías. Me especializo en la creación de experiencias web atractivas y funcionales utilizando herramientas como JavaScript, React, CSS, HTML, Tailwind CSS, SASS y Next.js.
 
