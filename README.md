@@ -11,6 +11,8 @@
 
 He dedicado tiempo y esfuerzo a la construcción de proyectos personales para aplicar y fortalecer mis habilidades. Estoy convencida de que la práctica constante es clave para el crecimiento en el desarrollo web.
 
+<img src="https://github.com/sarasegura/sarasegura/assets/137323950/644d2606-0a86-4824-8720-6e76a9000e35" width="400" height="200">
+
 ### Mis habilidades:
 
 - **JavaScript:** Dominio en el manejo de JavaScript para crear interactividad y dinamismo en mis proyectos.
