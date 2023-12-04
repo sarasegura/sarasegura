@@ -36,6 +36,7 @@ He dedicado tiempo y esfuerzo a la construcción de proyectos personales para ap
 ![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![REACT ROUTER](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![GIT](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![NEXT.JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next-dot-js&logoColor=white)
 
 
 Me he formado de manera autodidacta y he complementado mi aprendizaje con cursos de las rutas de Frontend Developer en Platzi. Estoy siempre en búsqueda de nuevos desafíos y oportunidades para aprender y crecer en el mundo del desarrollo web.
